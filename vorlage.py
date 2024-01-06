@@ -6,7 +6,7 @@ import os
 # Verbindungsparameter
 db_user = ''
 db_password = ''
-db_host = ''
+db_host = '
 db_name = ''
 backup_folder = 'backup/'
 
